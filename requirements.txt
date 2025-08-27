@@ -1,0 +1,7 @@
+# 化合物の毒性予測に必要なライブラリ
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+rdkit
